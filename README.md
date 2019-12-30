@@ -1,2 +1,3 @@
 # mg_811-test.ino
-get sensor data from bluetooth 
+get co2 sensor data and transmit through bluetooth
+
